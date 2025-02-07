@@ -1,0 +1,1 @@
+export const LANG = { "en-US": 'en', "zh-CN": 'zh', "ja-JP": 'ja' }
