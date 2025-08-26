@@ -2,13 +2,13 @@
 
 <p align="center">PDF All-in-One Toolbox allows users to process uploaded PDFs in various ways, including text extraction, full-text translation, summary generation, and conversion to common formats like HTML, Markdown, Docx, Jpeg, png. Additionally, it enables users to engage in conversations with AI language models using the PDF content as context, facilitating quick and deep understanding of document content.</p>
 
-<p align="center"><a href="https://302.ai/en/tools/pdftranslate/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/25" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302_AI_PDF_en.png)
 
-This is the open-source version of the [PDF All-in-One Toolbox](https://302.ai/en/tools/pdftranslate/) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
+This is the open-source version of the [PDF All-in-One Toolbox](https://302.ai/product/detail/25) from [302.AI](https://302.ai/en/). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
 
 ## Interface Preview
 After uploading a PDF file, you can choose from various processing options, including text extraction, translation, and summary generation.
